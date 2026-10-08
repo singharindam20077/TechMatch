@@ -1,0 +1,11 @@
+role,skills,description
+Data Scientist,"Python, SQL, Statistics, Machine Learning, Pandas, Data Visualization","Analyze data, build predictive models, and communicate insights to support decisions."
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Git","Develop, evaluate, and deploy machine-learning models in software systems."
+Data Analyst,"SQL, Excel, Python, Statistics, Power BI, Data Visualization","Query datasets, build dashboards, and explain trends to business teams."
+Backend Developer,"Python, Java, SQL, REST APIs, Git, Docker","Build server-side applications, APIs, and reliable data services."
+DevOps Engineer,"Linux, Docker, Kubernetes, Cloud, AWS, CI/CD, Git","Automate deployment pipelines and maintain scalable infrastructure."
+Cloud Architect,"Cloud, AWS, Azure, Docker, Kubernetes, Networking, Security","Design secure, reliable cloud platforms and infrastructure."
+Cybersecurity Analyst,"Networking, Linux, Python, Security, SQL, SIEM","Monitor systems, investigate threats, and improve security controls."
+Frontend Developer,"HTML, CSS, JavaScript, React, Git, REST APIs","Build responsive user interfaces and connect them to application services."
+Database Administrator,"SQL, Database Design, Linux, Cloud, Security, Backup","Maintain databases, manage access, and ensure data availability."
+AI Research Engineer,"Python, Mathematics, Machine Learning, Deep Learning, PyTorch, Statistics","Experiment with algorithms and evaluate new artificial-intelligence approaches."
